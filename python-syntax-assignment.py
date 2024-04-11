@@ -27,4 +27,3 @@ if response == "happy" or response == "Happy":
     print("That's great to hear!")
 elif response == "sad" or response == "Sad":
     print("I hope your day gets better!")
-
